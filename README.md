@@ -18,32 +18,32 @@
 <h3>Tela inicial</h3>
 <img src="assets/telainicial.jpeg" alt="Tela Inicial">
 
-<p>Sobre mim</p>
+<h3>Sobre mim</h3>
 <img src="assets/sobremim.jpeg" alt="Sobre mim">
 
-<p> Ir para Contato</p>
+<h3> Ir para Contato</h3>
 <img src="assets/irparacontato.jpeg" alt="Sobre mim">
 
 <h3 style="font-family: sans-serif;">Ao clicar em portifolio voce sera direcionado para uma pagina com o seguinte conteudo</h3>
 <strong> Sera apresentado um breve resumo de cada projeto</strong>
-<p> Manage </p>
+<h3> Manage </h3>
 <img src="assets/portifolio1.jpeg" alt="Manage">
 
-<p> Bookmark</p>
+<h3> Bookmark</h3>
 <img src="assets/portifolio2.jpeg" alt="Bookmark">
 
-<p> Insure</p>
+<h3> Insure</h3>
 <img src="assets/portifolio3.jpeg" alt="Insure">
 
-<p> Fylo</p>
+<h3> Fylo</h3>
 <img src="assets/portifolio4.jpeg" alt="Fylo">
 
 
 <h3 style="font-family: sans-serif;">Ao clicar em no projeto escolhido voce sera direcionado para a pagina do projeto</h3>
 
-<p>Como por exemplo:</p>
+<h3>Como por exemplo:</h3>
 
-<p> Projeto Manage </p>
+<h3> Projeto Manage </h3>
 <img src="assets/manageparte1.jpeg" alt="Manage">
 <img src="assets/manageparte2.jpeg" alt="Manage">
 

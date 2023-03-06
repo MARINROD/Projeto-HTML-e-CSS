@@ -15,7 +15,7 @@
 <h2 style="font-family: sans-serif;">Como Funciona:</h2>
 
 
-<p>Tela inicial</p>
+<h3>Tela inicial</h3>
 <img src="assets/telainicial.jpeg" alt="Tela Inicial">
 
 <p>Sobre mim</p>

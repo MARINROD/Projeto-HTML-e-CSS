@@ -50,3 +50,16 @@
 <h3 style="font-family: sans-serif;">Ao clicar em Contato:</h3>
 
 <img src="assets/areadecontato.jpeg" alt="Manage">
+
+
+
+<h2 style="font-family: sans-serif;">Tecnologias utilizadas</h2>
+
+<ul>
+    <li>HTML</li>
+    <li>CSS</li>
+</ul>
+
+<h2 style="font-family: sans-serif;">Autor</h2>
+
+<p>Rodrigo Marin Prata</p>
